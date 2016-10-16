@@ -1,2 +1,4 @@
 # g2c
-trying pilot
+hi guys
+
+knowledge sharing 
